@@ -18,7 +18,9 @@ a:active {
 .clear {
 	clear:both;
 }
-
+i {
+	margin-right: 0.8em;
+}
 h1,h2, h3, h4, h5, h6 {
 	font-family:'Open Sans', Arial, sans-serif;
 	font-weight: normal;
@@ -41,7 +43,7 @@ h1,h2, h3, h4, h5, h6 {
 }
 
 .row,.row-fluid {
-	margin-bottom:30px;
+	margin-bottom:2em;
 }
 
 .row .row,.row-fluid .row-fluid{

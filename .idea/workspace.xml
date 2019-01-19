@@ -2,16 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d052aca1-b537-4317-8421-0eb54f09ede8" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/加拿大境外签证申请问卷.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/bootstrap.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/bootstrap.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio.html" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pricing.html" beforeDir="false" afterPath="$PROJECT_DIR$/pricing.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/services.html" beforeDir="false" afterPath="$PROJECT_DIR$/VIP项目.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/找网站模板就上【模板之家】cssMoban.com.url" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/说明.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -29,24 +23,113 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="17" column="5" selection-start-line="17" selection-end-line="18" />
+            <state relative-caret-position="1815">
+              <caret line="79" column="13" lean-forward="true" selection-start-line="79" selection-start-column="13" selection-end-line="79" selection-end-column="13" />
               <folding>
-                <element signature="n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" />
                 <element signature="n#footer#0;n#body#0;n#html#0;n#!!top" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="VIP项目.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="VIP项目.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/VIP项目.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="667">
-              <caret line="178" column="64" selection-start-line="178" selection-start-column="64" selection-end-line="178" selection-end-column="64" />
+            <state relative-caret-position="689">
+              <caret line="69" column="33" lean-forward="true" selection-start-line="69" selection-start-column="33" selection-end-line="69" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="境内安省雇主担保.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/境内安省雇主担保.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="506">
+              <caret line="21" column="7" lean-forward="true" selection-start-line="21" selection-start-column="7" selection-end-line="21" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="境内续学签.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/境内续学签.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="782">
+              <caret line="109" column="36" lean-forward="true" selection-start-line="109" selection-start-column="36" selection-end-line="109" selection-end-column="36" />
               <folding>
                 <element signature="n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#style#0;n#i#0;n#h4#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#i#0;n#h3#0;n#div#1;n#div#0;n#div#0;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#i#0;n#h4#0;n#div#0;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#i#0;n#h4#1;n#div#0;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#i#0;n#h4#2;n#div#0;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#i#0;n#h4#4;n#div#0;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#i#0;n#h4#5;n#div#0;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#i#0;n#h4#6;n#div#0;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="安省省提名.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/安省省提名.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="460">
+              <caret line="88" selection-start-line="88" selection-end-line="93" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="加拿大境外签证申请问卷.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/加拿大境外签证申请问卷.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-184">
+              <caret line="140" column="18" lean-forward="true" selection-start-line="140" selection-start-column="18" selection-end-line="140" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="境内续小签.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/境内续小签.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="161">
+              <caret line="86" column="26" lean-forward="true" selection-start-line="86" selection-start-column="26" selection-end-line="86" selection-end-column="26" />
+              <folding>
+                <element signature="n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#style#0;n#i#0;n#h4#0;n#div#1;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#i#0;n#h4#1;n#div#1;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#i#0;n#h4#2;n#div#1;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#i#0;n#h4#4;n#div#1;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#i#0;n#h4#5;n#div#1;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#i#0;n#h4#6;n#div#1;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#i#0;n#h4#6;n#div#0;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="bootstrap.min.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/bootstrap.min.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="267">
+              <caret line="1608" column="1" selection-start-line="1608" selection-start-column="1" selection-end-line="1608" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="290">
+              <caret line="45" column="19" selection-start-line="45" selection-start-column="19" selection-end-line="45" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="portfolio.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/portfolio.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="966">
+              <caret line="88" column="86" lean-forward="true" selection-start-line="88" selection-start-column="86" selection-end-line="88" selection-end-column="86" />
             </state>
           </provider>
         </entry>
@@ -60,6 +143,9 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/VIP项目.html" />
+        <option value="$PROJECT_DIR$/css/style.css" />
+        <option value="$PROJECT_DIR$/境内续小签.html" />
+        <option value="$PROJECT_DIR$/境内续学签.html" />
       </list>
     </option>
   </component>
@@ -73,8 +159,8 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="540" />
-    <option name="y" value="135" />
+    <option name="x" value="236" />
+    <option name="y" value="247" />
     <option name="width" value="1769" />
     <option name="height" value="1001" />
   </component>
@@ -92,6 +178,11 @@
               <item name="nhl1011.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="nhl1011.github.io" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="nhl1011.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="nhl1011.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -108,6 +199,11 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.gutterIcons" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Lidia\Downloads\web\nhl1011.github.io" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -174,12 +270,20 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1547848729343</updated>
-      <workItem from="1547848731758" duration="1514000" />
+      <workItem from="1547848731758" duration="6315000" />
     </task>
+    <task id="LOCAL-00001" summary="added vip">
+      <created>1547850281760</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1547850281761</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1514000" />
+    <option name="totallyTimeSpent" value="6315000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="2578" height="1410" extended-state="6" />
@@ -220,6 +324,10 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="added vip" />
+    <option name="LAST_COMMIT_MESSAGE" value="added vip" />
+  </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/说明.txt">
       <provider selected="true" editor-type-id="text-editor" />
@@ -229,21 +337,94 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="17" column="5" selection-start-line="17" selection-end-line="18" />
+        <state relative-caret-position="1815">
+          <caret line="79" column="13" lean-forward="true" selection-start-line="79" selection-start-column="13" selection-end-line="79" selection-end-column="13" />
           <folding>
-            <element signature="n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" />
             <element signature="n#footer#0;n#body#0;n#html#0;n#!!top" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/portfolio.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="966">
+          <caret line="88" column="86" lean-forward="true" selection-start-line="88" selection-start-column="86" selection-end-line="88" selection-end-column="86" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/VIP项目.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="667">
-          <caret line="178" column="64" selection-start-line="178" selection-start-column="64" selection-end-line="178" selection-end-column="64" />
+        <state relative-caret-position="689">
+          <caret line="69" column="33" lean-forward="true" selection-start-line="69" selection-start-column="33" selection-end-line="69" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/加拿大境外签证申请问卷.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-184">
+          <caret line="140" column="18" lean-forward="true" selection-start-line="140" selection-start-column="18" selection-end-line="140" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/bootstrap.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="267">
+          <caret line="1608" column="1" selection-start-line="1608" selection-start-column="1" selection-end-line="1608" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="290">
+          <caret line="45" column="19" selection-start-line="45" selection-start-column="19" selection-end-line="45" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/境内安省雇主担保.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="506">
+          <caret line="21" column="7" lean-forward="true" selection-start-line="21" selection-start-column="7" selection-end-line="21" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/安省省提名.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="460">
+          <caret line="88" selection-start-line="88" selection-end-line="93" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/境内续小签.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="86" column="26" lean-forward="true" selection-start-line="86" selection-start-column="26" selection-end-line="86" selection-end-column="26" />
           <folding>
             <element signature="n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#style#0;n#i#0;n#h4#0;n#div#1;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#i#0;n#h4#1;n#div#1;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#i#0;n#h4#2;n#div#1;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#i#0;n#h4#4;n#div#1;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#i#0;n#h4#5;n#div#1;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#i#0;n#h4#6;n#div#1;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#i#0;n#h4#6;n#div#0;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/境内续学签.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="782">
+          <caret line="109" column="36" lean-forward="true" selection-start-line="109" selection-start-column="36" selection-end-line="109" selection-end-column="36" />
+          <folding>
+            <element signature="n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#style#0;n#i#0;n#h4#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#i#0;n#h3#0;n#div#1;n#div#0;n#div#0;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#i#0;n#h4#0;n#div#0;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#i#0;n#h4#1;n#div#0;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#i#0;n#h4#2;n#div#0;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#i#0;n#h4#4;n#div#0;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#i#0;n#h4#5;n#div#0;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#i#0;n#h4#6;n#div#0;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
